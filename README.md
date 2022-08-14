@@ -2,4 +2,4 @@
 View complete project in browser. 
 
 
-https://catqueencodes.github.io/Nasurudeen31
+https://github.com/Nasurudeen31/Nasur_OnlineLotery_Winner-Project
